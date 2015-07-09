@@ -31,7 +31,7 @@
     "console-dope": "~0.3.3",
     "dmd": "^1",
     "home-path": "^0.1.1",
-    "jsdoc-parse": "^1",
+    "jsdoc-parse": "git+https://github.com/tenbits/jsdoc-parse#c3499313d74a4bbb5ceda4ece1e31ddab41dc794",
     "object-tools": "^1.2.3"
   },
   "devDependencies": {
